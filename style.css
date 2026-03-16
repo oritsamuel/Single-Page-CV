@@ -1,0 +1,32 @@
+body {
+    max-width: 800px;
+    width: 90%;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+hr {
+    width: 75%;
+    height: 2px;
+    background-color: black;
+
+}
+
+
+.section-title {
+    color: rgb(49, 151, 49);
+
+}
+
+.job-title {
+    color: rgb(49, 151, 49);
+}
+
+.section-subtitle {
+    color: rgb(58, 96, 153);
+
+}
